@@ -9,7 +9,6 @@ export default function App() {
       <Logo />
       <h5>the island would not have been different</h5>
       <h5>by Travis Calhoun(I own this)</h5>
-      <button>Test</button>
     </div>
   );
 }
